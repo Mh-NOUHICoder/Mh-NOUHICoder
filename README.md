@@ -1,7 +1,17 @@
-## Hi there 👋
+<h1>Hi, I'm Mohammed NOUHI! <br/><a href="https://github.com/Mh-NOUHICoder">Front-End Developer</a></h1>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+- <b>Python</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[instagram]: https://www.instagram.com/joshmadakor/
+[linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
-**Mh-NOUHICoder/Mh-NOUHICoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
