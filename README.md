@@ -53,19 +53,29 @@
 
 ---
 
- ###📜 Certifications
-- ALX - AICE Certificate (Artificial Intelligence Career Essentials)
+ ### 📜 Certifications  
+
+- ALX - AICE Certificate (Artificial Intelligence Career Essentials)  
 <p>
   <a href="https://github.com/Mh-NOUHICoder/Certifications/raw/main/Alx-aice-ai-career-essentials-certificate.png" target="_blank">
     <img src="https://github.com/Mh-NOUHICoder/Certifications/raw/main/Alx-aice-ai-career-essentials-certificate.png" alt="ALX AICE Certificate" width="400"/>
   </a>
 </p>
-- Professional Foundations Certificate
+
+- Professional Foundations Certificate  
 <p>
   <a href="https://github.com/Mh-NOUHICoder/Certifications/raw/main/Professional-foundations-certificate-mohammed-nouhi.png" target="_blank">
     <img src="https://github.com/Mh-NOUHICoder/Certifications/raw/main/Professional-foundations-certificate-mohammed-nouhi.png" alt="Professional Foundations Certificate" width="400"/>
   </a>
 </p>
+
+- CS50x 2025 – Introduction to Computer Science (Harvard/edX)  
+<p>
+  <a href="https://github.com/Mh-NOUHICoder/Certifications/raw/main/CS50x.png" target="_blank">
+    <img src="https://github.com/Mh-NOUHICoder/Certifications/raw/main/CS50x.png" alt="CS50x 2025 Certificate" width="400"/>
+  </a>
+</p>
+
 
 ---
 
