@@ -17,12 +17,12 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate full-stack developer from Morocco dedicated to building efficient, user-friendly, and scalable web solutions. I enjoy turning complex challenges into simple and intuitive digital experiences.
+I'm a passionate full-stack developer from Morocco with expertise in building modern web applications using Laravel, React, Flask, and various cutting-edge technologies. I enjoy transforming complex ideas into efficient, user-friendly digital solutions that deliver exceptional user experiences.
 
 - 🔭 I'm currently working on enhancing my **E-Commerce Platform**
 - 🌱 I'm currently learning **React Native** and **Advanced Laravel** concepts
 - 👯 I'm looking to collaborate on **open-source projects** and **innovative web apps**
-- 💬 Ask me about **PHP, Laravel, JavaScript, React, or full-stack development**
+- 💬 Ask me about **PHP, Laravel, JavaScript, React, Python, or full-stack development**
 - ⚡ Fun fact: I love sci-fi movies and solving logic puzzles
 
 ---
@@ -36,31 +36,72 @@ I'm a passionate full-stack developer from Morocco dedicated to building efficie
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ### Backend:
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### Databases & Tools:
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-100000?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. [E-Commerce Website (Laravel)](https://github.com/Mh-NOUHICoder/E-commerce-Website-Laravel)
-A full-featured e-commerce platform with user authentication, product management, cart, and checkout functionality.
+### [TechFest 2025 Website](https://github.com/Mh-NOUHICoder/Techfest_landing_page)
+A vibrant, responsive landing page for a tech event featuring animated stats, clear CTAs, and a modern gradient UI to boost registration and engagement.
 
-### 2. [School Management System](https://github.com/Mh-NOUHICoder/School-Management-System-Laravel)
-A comprehensive system to manage students, professors, and administrative tasks for educational institutions.
+**Tech Stack:** React.js, TailwindCSS  
+**Live Demo:** [View Project](https://techfest-landing-page-navy.vercel.app/)
 
-### 3. [Portfolio Website (React)](https://github.com/Mh-NOUHICoder/Portfolio-Website-React)
-A modern, responsive portfolio website built with React to showcase projects and skills.
+---
+
+### [Fast Fitness Admin Dashboard](https://github.com/Mh-NOUHICoder/)
+A dark-themed gym management dashboard with real-time member and income analytics, sleek UI, and efficient sidebar navigation for daily operations.
+
+**Tech Stack:** HTML, CSS, jQuery, PHP, MySQL, Laragon  
+*Note: Repository and demo links coming soon*
+
+---
+
+### [ShareXpress](https://github.com/Mh-NOUHICoder/ShareXpress)
+A full-stack, secure file-sharing platform built with Flask. Features user authentication, web uploads, short shareable download links, and a management dashboard.
+
+**Tech Stack:** Flask, Python, SQLAlchemy  
+**Live Demo:** [View Project](https://mhcoder.pythonanywhere.com/)
+
+---
+
+### [E-Commerce Website (Laravel)](https://github.com/Mh-NOUHICoder/E-commerce-Website-Laravel)
+A complete e-commerce solution featuring user authentication, product management, shopping cart, checkout system, and admin dashboard.
+
+**Tech Stack:** Laravel, Bootstrap, MySQL
+
+---
+
+### [School Management System](https://github.com/Mh-NOUHICoder/School-Management-System-Laravel)
+Comprehensive educational platform for managing students, professors, courses, and administrative tasks with attendance tracking and grade management.
+
+**Tech Stack:** Laravel, Bootstrap, MySQL
+
+---
+
+### [Portfolio Website (React)](https://github.com/Mh-NOUHICoder/Portfolio-Website-React)
+Modern responsive portfolio website built with React to showcase projects and skills with smooth animations and clean design.
+
+**Tech Stack:** React, CSS
+
+---
 
 > [!NOTE]
 > For a complete list of my projects, check out my [GitHub Repositories](https://github.com/Mh-NOUHICoder?tab=repositories).
@@ -98,11 +139,14 @@ I'm always interested in discussing new projects, creative ideas, or opportuniti
   <a href="https://www.linkedin.com/in/mohammednouhi/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:mohammednouhi.official@gmail.com">
+  <a href="mailto:mailto:mohammednouhi.official@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Mh-NOUHICoder">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://mhnouhi.wuaze.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
