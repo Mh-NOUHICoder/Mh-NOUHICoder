@@ -4,7 +4,6 @@
   <span style="font-size: 18px; color: #333; margin-top: 10px; display: inline-block;">
     ✌🔻
     <img src="https://flagcdn.com/w40/ps.png" alt="Palestine Flag" width="30" style="vertical-align: middle; margin: 0 5px;">
-    🇵🇸 
   </span>
 </p>
 <h1 align="center">Hi 👋, I'm Mohammed NOUHI</h1>
