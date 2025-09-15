@@ -64,6 +64,39 @@ I'm a passionate full-stack developer from Morocco with expertise in building mo
 ![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white)
 
 ---
+## 📚 Currently Studying
+
+I'm currently deepening my knowledge in modern web development technologies:
+
+### TypeScript & Next.js
+- **TypeScript Fundamentals**: Type annotations, interfaces, generics, and type safety
+- **Next.js App Router**: Server components, routing, and data fetching patterns
+- **TypeScript with Next.js**: Static typing for improved development experience :cite[1]:cite[8]
+- **API Routes with TypeScript**: Building type-safe APIs :cite[1]
+- **Advanced Next.js Features**: Middleware, authentication, and performance optimization
+
+**Recent Learning Progress:**
+```typescript
+// Example: TypeScript component in Next.js
+interface UserCardProps {
+  name: string;
+  email: string;
+  role: 'admin' | 'user';
+}
+
+const UserCard: React.FC<UserCardProps> = ({ name, email, role }) => {
+  return (
+    <div className="user-card">
+      <h3>{name}</h3>
+      <p>{email}</p>
+      <span className={`role-badge ${role}`}>{role}</span>
+    </div>
+  );
+};
+
+export default UserCard;
+```
+---
 
 ## 🚀 Featured Projects
 
@@ -162,3 +195,5 @@ I'm always interested in discussing new projects, creative ideas, or opportuniti
 ---
 
 ⭐ **From [Mh-NOUHICoder](https://github.com/Mh-NOUHICoder)**
+
+<p align="center"> <!-- Moroccan Flag Wave at Bottom --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C1272D,100:006233&height=100&section=footer&animation=fadeIn&text=Thank%20You%20For%20Visiting!&fontColor=ffffff" /> <br> <span style="font-size: 16px; color: #333; margin-top: 10px; display: inline-block;"> 🇲🇦 Proudly Moroccan <img src="https://flagcdn.com/w40/ma.png" alt="Morocco Flag" width="30" style="vertical-align: middle; margin: 0 5px;"> 🇲🇦 </span> </p>
