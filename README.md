@@ -1,13 +1,8 @@
 <p align="center">
-  <svg width="100%" height="100" viewBox="0 0 100 100" preserveAspectRatio="none">
-    <path fill="#0066FF" d="M0,0 L100,0 L100,100 L0,100 Z" opacity="0.2"/>
-    <path fill="#0066FF" d="M0,0 C50,50 50,50 100,0 L100,100 L0,100 Z" opacity="0.5">
-      <animate attributeName="d" dur="3s" repeatCount="indefinite" 
-               values="M0,0 C50,50 50,50 100,0 L100,100 L0,100 Z;
-                       M0,0 C50,30 50,70 100,0 L100,100 L0,100 Z;
-                       M0,0 C50,50 50,50 100,0 L100,100 L0,100 Z"/>
-    </path>
-  </svg>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome%20To%20My%20Profile!&animation=fadeIn" />
+  <br>
+  <img src="https://flagcdn.com/w40/ma.png" alt="Morocco Flag" width="40">
+  <img src="https://flagcdn.com/w40/ps.png" alt="Palestine Flag" width="40">
 </p>
 <h1 align="center">Hi 👋, I'm Mohammed NOUHI</h1>
 <h3 align="center">Full-Stack Developer | Laravel & React Specialist | Building Scalable Web Solutions</h3>
