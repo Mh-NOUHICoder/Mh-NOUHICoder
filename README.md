@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:FFFFFF,50:007A3D,100:CE1126&height=120&section=header&animation=fadeIn&fontSize=30&fontColor=ffffff&text=Mohammed%20NOUHI" />
   <br>
   <span style="font-size: 18px; color: #333; margin-top: 10px; display: inline-block;">
-    🇲🇦 Standing with Palestine ✌🔻
+    ✌🔻
     <img src="https://flagcdn.com/w40/ps.png" alt="Palestine Flag" width="30" style="vertical-align: middle; margin: 0 5px;">
     🇵🇸 
   </span>
