@@ -1,3 +1,10 @@
+<img src="https://assets.codepen.io/1481806/icon-1.svg" width="50" style="float: left; animation: float 3s ease-in-out infinite;">
+<style>
+  @keyframes float {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-10px); }
+  }
+</style>
 <h1 align="center">Hi 👋, I'm Mohammed NOUHI</h1>
 <h3 align="center">Full-Stack Developer | Laravel & React Specialist | Building Scalable Web Solutions</h3>
 
