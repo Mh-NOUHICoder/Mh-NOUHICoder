@@ -1,5 +1,11 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:FFFFFF,50:007A3D,100:CE1126&height=100&section=header&text=Welcome%20To%20My%20Profile!&animation=fadeIn" />
+<p align="center" style="width: 100% ;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:FFFFFF,50:007A3D,100:CE1126&height=120&section=header&animation=fadeIn&fontSize=30&fontColor=ffffff&text=Mohammed%20NOUHI" />
+  <br>
+  <span style="font-size: 18px; color: #333; margin-top: 10px; display: inline-block;">
+    🇲🇦 Standing with Palestine ✌🔻
+    <img src="https://flagcdn.com/w40/ps.png" alt="Palestine Flag" width="30" style="vertical-align: middle; margin: 0 5px;">
+    🇵🇸 
+  </span>
 </p>
 <h1 align="center">Hi 👋, I'm Mohammed NOUHI</h1>
 <h3 align="center">Full-Stack Developer | Laravel & React Specialist | Building Scalable Web Solutions</h3>
