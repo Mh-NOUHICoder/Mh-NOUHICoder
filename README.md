@@ -195,4 +195,4 @@ I'm always interested in discussing new projects, creative ideas, or opportuniti
 
 ⭐ **From [Mh-NOUHICoder](https://github.com/Mh-NOUHICoder)**
 
-<p align="center"> <!-- Moroccan Flag Wave at Bottom --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C1272D,100:006233&height=100&section=footer&animation=fadeIn&text=Thank%20You%20For%20Visiting!&fontColor=ffffff" /> <br> <span style="font-size: 16px; color: #333; margin-top: 10px; display: inline-block;"> 🇲🇦 Proudly Moroccan <img src="https://flagcdn.com/w40/ma.png" alt="Morocco Flag" width="30" style="vertical-align: middle; margin: 0 5px;"> 🇲🇦 </span> </p>
+<p align="center"> <!-- Moroccan Flag Wave at Bottom --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C1272D,100:006233&height=100&section=footer&animation=fadeIn&text=Thank%20You%20For%20Visiting!&fontColor=ffffff" /> <br> <span style="font-size: 16px; color: #333; margin-top: 10px; display: inline-block;"> Proudly Moroccan <img src="https://flagcdn.com/w40/ma.png" alt="Morocco Flag" width="30" style="vertical-align: middle; margin: 0 5px;">  </span> </p>
