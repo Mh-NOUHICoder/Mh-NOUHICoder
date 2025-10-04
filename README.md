@@ -7,7 +7,7 @@
   </span>
 </p>
 <h1 align="center">Hi 👋, I'm Mohammed NOUHI</h1>
-<h3 align="center">Full-Stack Developer | Laravel & React Specialist | Building Scalable Web Solutions</h3>
+<h3 align="center">Front-end Developer | Laravel & React Specialist | Building Scalable Web Solutions</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammednouhi/" target="blank">
@@ -25,7 +25,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate full-stack developer from Morocco with expertise in building modern web applications using Laravel, React, Flask, and various cutting-edge technologies. I enjoy transforming complex ideas into efficient, user-friendly digital solutions that deliver exceptional user experiences.
+I'm a passionate front-end developer from Morocco with expertise in building modern web applications using Laravel, React, Flask, and various cutting-edge technologies. I enjoy transforming complex ideas into efficient, user-friendly digital solutions that deliver exceptional user experiences.
 
 - 🔭 I'm currently working on enhancing my **E-Commerce Platform**
 - 🌱 I'm currently learning **React Native** and **Advanced Laravel** concepts
