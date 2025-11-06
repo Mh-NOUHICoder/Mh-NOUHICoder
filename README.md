@@ -74,27 +74,6 @@ I'm currently deepening my knowledge in modern web development technologies:
 - **API Routes with TypeScript**: Building type-safe APIs :cite[1]
 - **Advanced Next.js Features**: Middleware, authentication, and performance optimization
 
-**Recent Learning Progress:**
-```typescript
-// Example: TypeScript component in Next.js
-interface UserCardProps {
-  name: string;
-  email: string;
-  role: 'admin' | 'user';
-}
-
-const UserCard: React.FC<UserCardProps> = ({ name, email, role }) => {
-  return (
-    <div className="user-card">
-      <h3>{name}</h3>
-      <p>{email}</p>
-      <span className={`role-badge ${role}`}>{role}</span>
-    </div>
-  );
-};
-
-export default UserCard;
-```
 ---
 
 ## 🚀 Featured Projects
@@ -123,26 +102,7 @@ A full-stack, secure file-sharing platform built with Flask. Features user authe
 
 ---
 
-### [E-Commerce Website (Laravel)](https://github.com/Mh-NOUHICoder/E-commerce-Website-Laravel)
-A complete e-commerce solution featuring user authentication, product management, shopping cart, checkout system, and admin dashboard.
 
-**Tech Stack:** Laravel, Bootstrap, MySQL
-
----
-
-### [School Management System](https://github.com/Mh-NOUHICoder/School-Management-System-Laravel)
-Comprehensive educational platform for managing students, professors, courses, and administrative tasks with attendance tracking and grade management.
-
-**Tech Stack:** Laravel, Bootstrap, MySQL
-
----
-
-### [Portfolio Website (React)](https://github.com/Mh-NOUHICoder/Portfolio-Website-React)
-Modern responsive portfolio website built with React to showcase projects and skills with smooth animations and clean design.
-
-**Tech Stack:** React, CSS
-
----
 
 > [!NOTE]
 > For a complete list of my projects, check out my [GitHub Repositories](https://github.com/Mh-NOUHICoder?tab=repositories).
