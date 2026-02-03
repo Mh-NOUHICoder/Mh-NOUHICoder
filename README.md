@@ -116,6 +116,8 @@ A full-stack, secure file-sharing platform built with Flask. Features user authe
 | **ALX - AICE Certificate (AI Career Essentials)** | [![ALX AICE Certificate](https://github.com/Mh-NOUHICoder/Certifications/raw/main/Alx-aice-ai-career-essentials-certificate.png)](https://github.com/Mh-NOUHICoder/Certifications/raw/main/Alx-aice-ai-career-essentials-certificate.png) |
 | **Professional Foundations Certificate** | [![Professional Foundations Certificate](https://github.com/Mh-NOUHICoder/Certifications/raw/main/Professional-foundations-certificate-mohammed-nouhi.png)](https://github.com/Mh-NOUHICoder/Certifications/raw/main/Professional-foundations-certificate-mohammed-nouhi.png) |
 | **CS50x 2025 - Intro to Computer Science (Harvard/edX)** | [![CS50x 2025 Certificate](https://github.com/Mh-NOUHICoder/Certifications/raw/main/CS50x.png)](https://github.com/Mh-NOUHICoder/Certifications/raw/main/CS50x.png) |
+| **ALX Software Engineering - ProDev Frontend (4 Months)** | [![ALX ProDev Frontend Certificate](https://github.com/Mh-NOUHICoder/Certifications/raw/main/85-prodev-frontend-certificate-mohammed-nouhi.png)](https://github.com/Mh-NOUHICoder/Certifications/raw/main/85-prodev-frontend-certificate-mohammed-nouhi.png) |
+
 
 ---
 
