@@ -7,7 +7,7 @@
   </span>
 </p>
 <h1 align="center">Hi 👋, I'm Mohammed NOUHI</h1>
-<h3 align="center">Front-end Developer | Laravel & React Specialist | Building Scalable Web Solutions</h3>
+<h3 align="center">Front-end Developer | Next JS & React Specialist | Building Scalable Web Solutions</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammednouhi/" target="blank">
