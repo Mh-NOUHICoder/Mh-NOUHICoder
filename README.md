@@ -48,7 +48,6 @@ I'm a passionate front-end developer from Morocco with expertise in building mod
 
 ### Backend:
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -59,30 +58,18 @@ I'm a passionate front-end developer from Morocco with expertise in building mod
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-100000?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white)
 
----
-## 📚 Currently Studying
-
-I'm currently deepening my knowledge in modern web development technologies:
-
-### TypeScript & Next.js
-- **TypeScript Fundamentals**: Type annotations, interfaces, generics, and type safety
-- **Next.js App Router**: Server components, routing, and data fetching patterns
-- **TypeScript with Next.js**: Static typing for improved development experience :cite[1]:cite[8]
-- **API Routes with TypeScript**: Building type-safe APIs :cite[1]
-- **Advanced Next.js Features**: Middleware, authentication, and performance optimization
 
 ---
 
 ## 🚀 Featured Projects
 
-### [TechFest 2025 Website](https://github.com/Mh-NOUHICoder/Techfest_landing_page)
-A vibrant, responsive landing page for a tech event featuring animated stats, clear CTAs, and a modern gradient UI to boost registration and engagement.
+### [LifeGuard AI](https://github.com/Mh-NOUHICoder/lifeguard-ai)
+A real-time emergency response application that turns a smartphone into a life-saving assistant using AI. Features include visual and audio emergency detection, step-by-step voice guidance, multilingual support, and one-tap emergency calling.
 
-**Tech Stack:** React.js, TailwindCSS  
-**Live Demo:** [View Project](https://techfest-landing-page-navy.vercel.app/)
+**Tech Stack:** Next.js (React), TypeScript, TailwindCSS, Gemini AI API, PWA .   
+**Live Demo:** [View Project](https://lifeguard-ai.vercel.app/).
 
 ---
 
@@ -90,7 +77,7 @@ A vibrant, responsive landing page for a tech event featuring animated stats, cl
 A dark-themed gym management dashboard with real-time member and income analytics, sleek UI, and efficient sidebar navigation for daily operations.
 
 **Tech Stack:** HTML, CSS, jQuery, PHP, MySQL, Laragon  
-*Note: Repository and demo links coming soon*
+**Live Demo:** [View Project](https://fastfitness.infinityfreeapp.com/).
 
 ---
 
@@ -98,7 +85,7 @@ A dark-themed gym management dashboard with real-time member and income analytic
 A full-stack, secure file-sharing platform built with Flask. Features user authentication, web uploads, short shareable download links, and a management dashboard.
 
 **Tech Stack:** Flask, Python, SQLAlchemy  
-**Live Demo:** [View Project](https://mhcoder.pythonanywhere.com/)
+**Live Demo:** [View Project](https://mhnouhi.pythonanywhere.com/).
 
 ---
 
